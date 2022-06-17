@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Power2Stage"]
+	path = Power2Stage
+	url = https://github.com/detlew/power2stage
+	shallow = true
+	registered = true
+[submodule "PowerTOST"]
+	path = PowerTOST
+	url = https://github.com/detlew/powertost
+	shallow = true
+	registered = true

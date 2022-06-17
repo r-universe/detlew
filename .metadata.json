@@ -1,0 +1,10 @@
+[
+  {
+    "package": "Power2Stage",
+    "oncran": true
+  },
+  {
+    "package": "PowerTOST",
+    "oncran": true
+  }
+]
