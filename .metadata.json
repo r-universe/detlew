@@ -1,10 +1,10 @@
 [
   {
-    "package": "PowerTOST",
+    "package": "Power2Stage",
     "oncran": true
   },
   {
-    "package": "Power2Stage",
+    "package": "PowerTOST",
     "oncran": true
   }
 ]
