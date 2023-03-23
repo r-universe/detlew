@@ -13,3 +13,8 @@
 	url = https://github.com/detlew/powertost
 	shallow = true
 	registered = true
+[submodule "randomizeBE"]
+	path = randomizeBE
+	url = https://github.com/cran/randomizeBE
+	shallow = true
+	registered = true
